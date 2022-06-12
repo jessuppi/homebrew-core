@@ -13,5 +13,6 @@ class SlickStack < Formula
   end
 end
 
+# https://github.com/syhw/homebrew/blob/master/Library/Contributions/example-formula.rb
 # https://cfxdesign.com/lemp-stack-for-mackbook-pro-m1-2022/
 # https://kevdees.com/macos-11-big-sur-nginx-setup-multiple-php-versions/
