@@ -2,7 +2,7 @@ class SlickStack < Formula
   desc "Launch fun and easy LEMP stacks for WordPress using Bash"
   homepage "https://slickstack.io"
   url "https://raw.githubusercontent.com/littlebizzy/slickstack/master/bash/ss-install.txt, :using => :wget"
-  mirror ="https://gitlab.com/littlebizzy/slickstack/-/raw/master/bash/ss-install.txt, :using => :wget"
+  mirror "https://gitlab.com/littlebizzy/slickstack/-/raw/master/bash/ss-install.txt, :using => :wget"
 
   depends_on "bash"
   depends_on "nginx"
